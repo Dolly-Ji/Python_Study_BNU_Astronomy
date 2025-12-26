@@ -5,21 +5,26 @@ Hope to master Python in my efforts.
 
 >It takes 10 years to grow trees,but a hundred to rear people.
 
-## Lesson 0
+## Lesson 0 Basic
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson0_Basic.ipynb'>Lesson0_notes</a>
-## Lesson 2
+## Lesson 2 String and Structure
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson2_String%20and%20Structure.ipynb'>Lesson2_notes</a>
 
 Relevant Files
 
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Practice1.txt'>Practice 1</a>
-## Lesson 3
+## Lesson 3 List
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson3_List.ipynb'>Lesson3_notes</a>
-## Lesson 4
+## Lesson 4 Modules
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson4_Modules.ipynb'>Lesson4_notes</a>
-## Lesson 5
+## Lesson 5 Numpy
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson5_Numpy.ipynb'>Lesson5_notes</a>
-## Lesson 6
+## Lesson 6 Plot
 <a href='http://localhost:8888/notebooks/Lesson6_notes.ipynb'>Lesson6_notes</a>
 ## 习题课
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/习题课.ipynb'>习题课</a>
+## Lesson 7
+<a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson7_notes.ipynb'>Lesson7_notes</a>
+## Lesson 8
+<a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson8_notes.ipynb'>Lesson8_notes</a>
+
