@@ -19,5 +19,7 @@ Relevant Files
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson4_Modules.ipynb'>Lesson4_notes</a>
 ## Lesson 5
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson5_Numpy.ipynb'>Lesson5_notes</a>
+## Lesson 6
+<a href='http://localhost:8888/notebooks/Lesson6_notes.ipynb'>Lesson6_notes</a>
 ## 习题课
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/习题课.ipynb'>习题课</a>
