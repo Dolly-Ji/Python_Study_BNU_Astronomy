@@ -10,7 +10,8 @@ Hope to master Python in my efforts.
 ## Lesson 2
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson2_String%20and%20Structure.ipynb'>Lesson2_notes</a>
 
-<a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Practice%201.txt'>Practice 1</a>
+> Relevant Files
+<a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Practice 1.txt'>Practice 1</a>
 ## Lesson 3
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson3_List.ipynb'>Lesson3_notes</a>
 ## Lesson 4
