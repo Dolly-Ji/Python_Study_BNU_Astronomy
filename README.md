@@ -9,6 +9,8 @@ Hope to master Python in my efforts.
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson0_Basic.ipynb'>Lesson0_notes</a>
 ## Lesson 2
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson2_String%20and%20Structure.ipynb'>Lesson2_notes</a>
+
+<a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Practice%201.txt'>Practice 1</a>
 ## Lesson 3
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson3_List.ipynb'>Lesson3_notes</a>
 ## Lesson 4
@@ -16,4 +18,4 @@ Hope to master Python in my efforts.
 ## Lesson 5
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson5_Numpy.ipynb'>Lesson5_notes</a>
 ## 习题课
-<a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/习题课.ipynb'>习题课>xa>
+<a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/习题课.ipynb'>习题课</a>
