@@ -12,7 +12,7 @@ Hope to master Python in my efforts.
 
 Relevant Files
 
-<a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Practice 1.txt'>Practice 1</a>
+<a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Practice1.txt'>Practice 1</a>
 ## Lesson 3
 <a href='https://github.com/Dolly-Ji/Python_Study_BNU_Astronomy/blob/main/Lesson3_List.ipynb'>Lesson3_notes</a>
 ## Lesson 4
